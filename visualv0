@@ -38,7 +38,7 @@ local Toggle = Tab:CreateToggle({
    CurrentValue = false,
    Flag = "Toggle1",
    Callback = function(Value)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Code4Zaaa/X7Project/main/Game/AutoParryOnly"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pz/Parry/main/auto"))()
       print(Value)
    end,
 })
