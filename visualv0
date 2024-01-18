@@ -6,7 +6,7 @@
 
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))()
 local Window = Rayfield:CreateWindow({
-   Name = "Project Visualizer Blade ball",
+   Name = "Project Visual Blade ball",
    LoadingTitle = "Project Visualizer Blade ball",
    LoadingSubtitle = "by Fsploit",
    ConfigurationSaving = {
@@ -22,7 +22,7 @@ local Window = Rayfield:CreateWindow({
    KeySystem = false, -- Set this to true to use our key system
    KeySettings = {
       Title = "Project Visual Key system",
-      Subtitle = "Key System",
+      Subtitle = "by Fsploit",
       Note = "Join the discord (https://discord.com/invite/53fFHv7jj3)",
       FileName = "SiriusKey",
       SaveKey = false,
